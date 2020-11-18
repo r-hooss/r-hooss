@@ -6,5 +6,5 @@
 - PYTHON
 
 ## CONTACT
-Gmail : hoosshusu@gmail.com
+Gmail : hoosshusu@gmail.com<br>
 Discord : hooss_OwO#1924
